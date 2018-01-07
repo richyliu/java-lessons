@@ -1,0 +1,14 @@
+unit 1:
+data types, variables, if/else, loops, functions
+
+unit 2:
+objects (attributes and behaviors), inheritance, interface
+
+unit 3:
+array, string methods, good code practices (functions, comments, encapsulation, abstraction, testing)
+
+unit 4:
+game! (tbd)
+
+unit 5:
+algorithmic design (usaco prep)
