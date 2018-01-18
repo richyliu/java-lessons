@@ -29,21 +29,21 @@ public class Lesson4 {
 		
 		
 		// fill in the blanks
-		boolean exit = /*???*/;
-		int total = 0;
-		int /*???*/ = 0;
-		
-		while(!exit) {
-			System.out./*???*/("Enter an integer (type -1 to exit): ");
-			number = reader./*???*/();
-			total = /*???*/ + number;
-			
-			System.out.println("The total is: " + /*???*/);
-			
-			if (number == /*???*/) {
-				exit = true;
-			}
-		}
+//		boolean exit = /*???*/;
+//		int total = 0;
+//		int /*???*/ = 0;
+//		
+//		while(!exit) {
+//			System.out./*???*/("Enter an integer (type -1 to exit): ");
+//			number = reader./*???*/();
+//			total = /*???*/ + number;
+//			
+//			System.out.println("The total is: " + /*???*/);
+//			
+//			if (number == /*???*/) {
+//				exit = true;
+//			}
+//		}
 		
 		reader.close();
 		
