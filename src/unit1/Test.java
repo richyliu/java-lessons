@@ -9,7 +9,7 @@ public class Test {
 		/**
 		 * This is the Unit 1 test. There are 20 multiple choice problems each
 		 * worth 1 point, 10 fill in the blanks each worth 1 point, 5 true/
-		 * false problems each worth 1 point, 10 short answers each worth 2
+		 * false problems each worth 1 point, 5 short answers each worth 4
 		 * points, and 1 paragraph answer worth 5 points.
 		 * 
 		 * You may Google an answer at any point in the test. However, you
@@ -103,19 +103,15 @@ public class Test {
 		
 
 		/* Short answer */
-		// 1. 
-		// 2. 
-		// 3. 
-		// 4. 
-		// 5. 
-		// 6. 
-		// 7. 
-		// 8. 
-		// 9. 
-		// 10. 
+		// 1. How do you create a Scanner? 
+		// 2. Write the following code: if a and b are true or c is false, print "yes" 
+		// 3. How do you generate a number between 5 and 10 (inclusive)?
+		// 4. Write the header for a function called subtract that has two ints called a and b as parameters and returns an int
+		// 5. Write a printf statement that will format the following: "2 plus 3 is 5" if 2 is a, 3 is b, and 5 is c 
 		
 
 		/* Paragraph answer */
+		// Compare and contrast for and while loops. Consider syntax (how they are written), when they should be used, and how they are related to each other. You may write in bullet points.
 	}
 
 }
