@@ -1,4 +1,4 @@
-package unit1;
+package unit2;
 
 /* Unit 1 test review */
 public class Lesson1 {
@@ -22,24 +22,24 @@ public class Lesson1 {
 		
 		/* Fill in the blanks */
 		
-		Scanner /*1*/ = new Scanner(System.in);
-		int start = 0;
-		int step = 0;
-		
-		System.out.println("Welcome to sequence generator!");
-		System.out.print("Enter the starting number: ");
-		start = reader./*4*/();
-		System.out.print("Enter the step: ");
-		step = reader.nextInt();
-		
-		if (start < 0 || step < 0) {
-			System.out.println("Invalid input!");
-		} else {
-			for (int i = 0; i < 10; i/*9*/) {
-				System.out.print(start + i * /*10*/);
-				System.out.println(", ");
-			}
-		}
+//		Scanner /*1*/ = new Scanner(System.in);
+//		int start = 0;
+//		int step = 0;
+//		
+//		System.out.println("Welcome to sequence generator!");
+//		System.out.print("Enter the starting number: ");
+//		start = reader./*4*/();
+//		System.out.print("Enter the step: ");
+//		step = reader.nextInt();
+//		
+//		if (start < 0 || step < 0) {
+//			System.out.println("Invalid input!");
+//		} else {
+//			for (int i = 0; i < 10; i/*9*/) {
+//				System.out.print(start + i * /*10*/);
+//				System.out.println(", ");
+//			}
+//		}
 		
 		
 		// 5. It is impossible to create functions

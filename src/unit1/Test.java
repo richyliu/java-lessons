@@ -100,24 +100,24 @@ public class Test {
 
 		/* Fill in the blanks */
 		
-		Scanner /*1*/ = new Scanner(System.in);
-		int start = 0;
-		int /*2*/ = 0;
-		
-		System.out.println("Welcome to sequence generator!");
-		/*3*/.out.print("Enter the starting number: ");
-		start = reader./*4*/();
-		System./*5*/.print("Enter the step: ");
-		step = reader.nextInt();
-		
-		if (/*6*/ < 0 || step < 0) {
-			System.out.println("Invalid input!");
-		} /*7*/ {
-			for (int /*8*/ = 0; i < 10; i/*9*/) {
-				System.out.print(start + i * /*10*/);
-				System.out.println(", ");
-			}
-		}
+//		Scanner /*1*/ = new Scanner(System.in);
+//		int start = 0;
+//		int /*2*/ = 0;
+//		
+//		System.out.println("Welcome to sequence generator!");
+//		/*3*/.out.print("Enter the starting number: ");
+//		start = reader./*4*/();
+//		System./*5*/.print("Enter the step: ");
+//		step = reader.nextInt();
+//		
+//		if (/*6*/ < 0 || step < 0) {
+//			System.out.println("Invalid input!");
+//		} /*7*/ {
+//			for (int /*8*/ = 0; i < 10; i/*9*/) {
+//				System.out.print(start + i * /*10*/);
+//				System.out.println(", ");
+//			}
+//		}
 		
 
 		/* True/false */
