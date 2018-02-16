@@ -12,11 +12,11 @@ public class Lesson2 {
 		
 		print();
 		
-		System.out.println(multiply(4, 3));
+//		System.out.println(multiply(4, 3));
 		
 		
 		String name = "richard";
-		System.out.println(printName(name));
+//		System.out.println(printName(name));
 		
 		System.out.println(sigma(3, 2, 10));
 	}
